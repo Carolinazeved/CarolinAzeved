@@ -2,12 +2,12 @@
 ## 👋 Hello, Devs!!!
 
 <div align="center">
-  <a href="https://github.com/CarolinAzeved">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinAzeved&layout=compact&langs_count=7&theme=radical"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolinAzeved&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carolinazeved&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinazeved&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
 ---
 <div align="center">
 <div style="display: flex; align-items: center;">
