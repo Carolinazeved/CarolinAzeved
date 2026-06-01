@@ -1,7 +1,7 @@
 # ✨ Carolin Azevedo
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=30&center=true&vCenter=true&width=1000&lines=Hello,+Devs!;Technology+Student;Future+Data+Scientist;Coffee+Without+Sugar+☕;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=30&center=true&vCenter=true&width=1000&lines=Hello,+Devs!;Technology+Student;Future+Data+Scientist;Power+Platform+Enthusiast;Coffee+Without+Sugar+☕;Welcome+to+my+GitHub!">
 </p>
 
 <div align="center">
@@ -16,17 +16,19 @@
 <tr>
 <td>
 
-🎓 Atualmente Estudante Curiosa de Tecnologia  
+🎓 Estudante de Ciências dos Dados (UFMS)
 
-🌞 Moro na Cidade do Sol, Fortaleza - Ceará  
+🌞 Fortaleza - Ceará
 
-👩‍👩‍👧‍👦 Mãe e Esposa  
+👩‍👩‍👧‍👦 Mãe e Esposa
 
-✈️ Amo viagens e crochê  
+✈️ Apaixonada por viagens e crochê
 
-☕ Faço parte do Clã do "CAFÉ SEM AÇÚCAR"  
+☕ Integrante do clã do café sem açúcar
 
-💻 Apaixonada por tecnologia, criatividade e aprendizado constante  
+💻 Entusiasta de tecnologia, automação, dados e inovação
+
+🚀 Participante de Hackathons Corporativos
 
 </td>
 
@@ -49,9 +51,7 @@
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48">
-
   <img src="https://skillicons.dev/icons?i=html" width="48">
-
   <img src="https://skillicons.dev/icons?i=css" width="48">
 </p>
 
@@ -59,25 +59,24 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" width="48">
-
   <img src="https://skillicons.dev/icons?i=github" width="48">
-
   <img src="https://skillicons.dev/icons?i=vscode" width="48">
-
   <img src="https://skillicons.dev/icons?i=figma" width="48">
-
   <img src="https://skillicons.dev/icons?i=notion" width="48">
-
   <img src="https://skillicons.dev/icons?i=npm" width="48">
+  <img src="https://skillicons.dev/icons?i=python" width="48">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="48">
+  <img src="https://img.icons8.com/color/48/microsoft-teams.png" width="48">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" width="48"
+     style="filter: invert(24%) sepia(75%) saturate(1800%) hue-rotate(260deg) brightness(90%) contrast(95%);"/>
+<img src="https://img.icons8.com/color/48/microsoft-sharepoint-2019.png" width="48"/>
+
 </p>
 
 ## 📚 Atualmente Aprendendo
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="48">
-
-  <img src="https://skillicons.dev/icons?i=python" width="48">
-
   <img src="https://skillicons.dev/icons?i=mysql" width="48">
 </p>
 
@@ -85,11 +84,44 @@
 
 # 📈 Áreas de Interesse
 
-✨ Desenvolvimento Web  
-✨ Ciência de Dados  
-✨ UX e Fluxo de Usuário  
-✨ Processos e Documentação  
-✨ Tecnologia aplicada a negócios  
+✨ Ciência de Dados
+
+✨ Power Platform
+
+✨ Business Intelligence (BI)
+
+✨ Automação de Processos
+
+✨ Desenvolvimento Web
+
+✨ UX e Fluxo de Usuário
+
+✨ Tecnologia aplicada a Negócios
+
+---
+
+# 🏆 Hackathons e Projetos
+
+🚀 Participação em Hackathons Corporativos focados em inovação, automação de processos e transformação digital.
+
+### Principais experiências
+
+✅ Desenvolvimento de aplicações utilizando Power Apps
+
+✅ Gestão de dados e processos com SharePoint
+
+✅ Criação de dashboards e indicadores utilizando Power BI
+
+✅ Automação de fluxos operacionais
+
+✅ Levantamento e documentação de requisitos
+
+✅ Priorização de demandas por criticidade
+
+✅ Integração entre ferramentas Microsoft 365
+
+
+
 
 ---
 
@@ -125,7 +157,8 @@
 
 <div align="center">
 
-💜 *“Dream, hope, keep going forward.”*  
-— **Young Forever • BTS**
+💜 *"Dream, hope, keep going forward."*
+
+**Young Forever • BTS**
 
 </div>
