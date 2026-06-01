@@ -53,18 +53,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48">
   <img src="https://skillicons.dev/icons?i=html" width="48">
   <img src="https://skillicons.dev/icons?i=css" width="48">
+  <img src="https://skillicons.dev/icons?i=python" width="48">
 </p>
 
 ## 🛠️ Ferramentas e Tecnologias
 
 <p>
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48">
   <img src="https://skillicons.dev/icons?i=git" width="48">
   <img src="https://skillicons.dev/icons?i=github" width="48">
   <img src="https://skillicons.dev/icons?i=vscode" width="48">
   <img src="https://skillicons.dev/icons?i=figma" width="48">
   <img src="https://skillicons.dev/icons?i=notion" width="48">
   <img src="https://skillicons.dev/icons?i=npm" width="48">
-  <img src="https://skillicons.dev/icons?i=python" width="48">
+  
   <img src="https://img.icons8.com/color/48/power-bi.png" width="48">
   <img src="https://img.icons8.com/color/48/microsoft-teams.png" width="48">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerapps.svg" width="48"
@@ -78,6 +80,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="48">
   <img src="https://skillicons.dev/icons?i=mysql" width="48">
+   <img src="https://skillicons.dev/icons?i=postgres" width="48">
+<img src="https://cdn.simpleicons.org/totvs/363636" width="48">  
 </p>
 
 ---
